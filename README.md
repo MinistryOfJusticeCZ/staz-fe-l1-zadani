@@ -15,11 +15,11 @@ https://github.com/MinistryOfJusticeCZ/staz-fe-l1-zadani
 Do konce týdne od prvního sezení odpovědět na tyto otázky:
 
 1. Výhody a nevýhody modálních oken:
-  - uživatelský pohled
-    - kdy je vhodné použít modální okno?
-    - jaký je typický příklad takového okna?
-  - pohled z hlediska přístupnosti
-    - na co si dát pozor při stavění modálních oken?
+    - uživatelský pohled
+      - kdy je vhodné použít modální okno?
+      - jaký je typický příklad takového okna?
+    - pohled z hlediska přístupnosti
+      - na co si dát pozor při stavění modálních oken?
 
 ## Požadavky na kód
 
