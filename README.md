@@ -43,7 +43,7 @@ Seznámení se s termíny:
 - Kódování znaků
 - Dependence
 - Deployment
-- Node.js na https://www.youtube.com/watch?v=U8XF6AFGqlc a https://www.youtube.com/watch?v=fBNz5xF-Kx
+- Node.js na https://www.youtube.com/watch?v=U8XF6AFGqlc a https://www.youtube.com/watch?v=fBNz5xF-Kx4
 - A11Y
 
 ## Nástroje, které se budou používat
