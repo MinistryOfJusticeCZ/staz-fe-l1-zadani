@@ -1,7 +1,7 @@
 # Zadání pro stáž — Front-end úrovně 1
 
 ## Fork repa, ve kterém budete pracovat
-https://github.com/MinistryOfJusticeCZ/staz-fe-l1-zadani
+https://github.com/MinistryOfJusticeCZ/staz-fe-l1
 
 ## Úkol
 
@@ -12,7 +12,7 @@ https://github.com/MinistryOfJusticeCZ/staz-fe-l1-zadani
 - Prototyp bude oznamovat změny uživatelům s odečítačkami obrazovaky dle: https://accessibility.blog.gov.uk/2016/12/09/patterns-for-accessible-webchats/
 
 ### Psanný úkol
-Do konce týdne od prvního sezení odpovědět na tyto otázky:
+Do konce stáže odpovědět na tyto otázky:
 
 1. Výhody a nevýhody modálních oken:
     - uživatelský pohled
@@ -27,7 +27,7 @@ Do konce týdne od prvního sezení odpovědět na tyto otázky:
 - CSS architektura: [BEM](https://jecas.cz/bem)
 - Stránka postavena bez frameworků jako Bootstrap, UIkit apod.
 
-## Scénář
+## Scénář (nepovinné)
 https://userresearch.blog.gov.uk/wp-content/uploads/sites/102/2016/12/webchat-roleplay-photo-.png
 
 ## Prerekvizita
