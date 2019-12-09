@@ -11,7 +11,7 @@ https://github.com/MinistryOfJusticeCZ/staz-fe-l1
   - To znamená, nainstalovat [aXe](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/) a společně [Lighthousem](https://developers.google.com/web/tools/lighthouse) otestovat, a prototyp podle výsledných doporučení opravit
 - Prototyp bude oznamovat změny uživatelům s odečítačkami obrazovaky dle: https://accessibility.blog.gov.uk/2016/12/09/patterns-for-accessible-webchats/
 
-### Psanný úkol
+### Písemný úkol
 Do konce stáže odpovědět na tyto otázky:
 
 1. Výhody a nevýhody modálních oken:
